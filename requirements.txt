@@ -1,0 +1,7 @@
+aiogram==3.0.0b7
+gspread
+openai
+dotenv
+python-dotenv
+jinja2
+reportlab
