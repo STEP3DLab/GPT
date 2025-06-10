@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+step3d-frontend/node_modules/
+step3d-frontend/.next/
+step3d-frontend/package-lock.json
